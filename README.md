@@ -31,5 +31,4 @@ Sno | Name
 2|Mahitha
 3|Jahnavi
 
-:EMOJICODE:.
-
+@octocat hello world :smile: Welcome to :india:
