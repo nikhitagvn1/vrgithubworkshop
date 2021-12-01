@@ -46,4 +46,9 @@ Java wad developed by James Gosling[^2].
 
 <!-- Hey there! :wink:. -->
 
-Let's rename \*our-new-project\* to \*our-old-project\*.
+```
+git status
+git add
+git commit
+```
+
