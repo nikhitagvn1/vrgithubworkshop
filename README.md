@@ -58,5 +58,5 @@ git commit
 
 1. Apple
    - Banana
-     -Cherry
-      -Dragonfruit
+      -Cherry
+         *Dragonfruit
