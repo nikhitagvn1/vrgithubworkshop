@@ -33,4 +33,4 @@ Sno | Name
 
 @octocat hello world :smile: Welcome to :india:
 
-@octocat My name is NIKI :wink:
+My name is NIKI :wink:
