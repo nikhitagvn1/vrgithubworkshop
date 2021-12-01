@@ -55,5 +55,5 @@ Java is a High level programming language[^1].
 Java wad developed by James Gosling[^2].
 
 [^1]: For more info visit oracle.java website.
-[^2]:In the year 1991 wih **OAK** as its initial name.It was renamed as ***JAVA*** in the year **1995**.
+[^2]: In the year 1991 wih **OAK** as its initial name.It was renamed as ***JAVA*** in the year **1995**.
     
