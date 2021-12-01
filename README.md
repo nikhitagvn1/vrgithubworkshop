@@ -31,6 +31,10 @@ Sno | Name
 2|Mahitha
 3|Jahnavi
 
-@octocat hello world :smile: Welcome to :india:
+hello world :smile: Welcome to :india:.
 
-My name is NIKI :wink:
+My name is NIKI :wink:.
+
+~~This is a wrong text~~
+
+
