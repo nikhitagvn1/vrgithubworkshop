@@ -5,5 +5,18 @@
 ##### Heading 5
 ###### Heading 6
 *Hello World*
+
 **Be bold**
 
+***Both bold and italic***
+* Fruits
+  * Orange
+  * Mango
+  * Apple
+ 
+ 1. vegetables
+   2. carrots
+   3. spinach
+   4. chilli
+  
+  .[Google].(https://www.google.com/)
