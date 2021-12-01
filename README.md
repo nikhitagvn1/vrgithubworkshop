@@ -46,4 +46,4 @@ Java wad developed by James Gosling[^2].
 
 <!-- This content will not appear in the rendered Markdown -->
 
-<!-- Hey there! :wink:. -->
+<-- Hey there! :wink:. -->
